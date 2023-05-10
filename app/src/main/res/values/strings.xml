@@ -2,31 +2,35 @@
     <string name="app_name">Food Tips</string>
 
     <string name="food1">Banana</string>
-    <string name="food1_description">A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</string>
-    <string name="food1_benefits">Food Benefits</string>
+    <string name="food1_description">A sweet, elongated fruit with yellow skin and white flesh that is high in potassium and commonly used in smoothies and baked goods.</string>
+    <string name="food1_benefits">Potassium \n vitamin B6 \n fiber\nVitamin C\nManganese</string>
 
     <string name="food2">Dragon</string>
-    <string name="food2_description">Dragon fruit is a tropical fruit that\'s low in calories and high in fiber and antioxidants. </string>
-    <string name="food2_benefits">Food Benefits</string>
+    <string name="food2_description">A brightly  colored fruit with a tough exterior  and white, juicy  interior speckled  with black seeds used in salads and smoothies.</string>
+    <string name="food2_benefits">Vitamin C\nFiber\nAntioxidants\nMagnesium\nCalcium</string>
 
     <string name="food3">Grapes</string>
-    <string name="food3_description">Grapes are a type of fruit that grow in clusters of 15 to 300, and can be crimson, black, dark blue, yellow, green, orange, and pink</string>
-    <string name="food3_benefits">Food Benefits</string>
+    <string name="food3_description">Grapes are a type of fruit that grow in clusters of 15 to 300, and can be crimson, black, dark blue, yellow, green, orange, and pink.</string>
+    <string name="food3_benefits">Resveratrol\nVitamin K\nVitamin C\nAntioxidants\nPolyphenols</string>
 
     <string name="food4">Kiwi</string>
-    <string name="food4_description">Kiwifruit or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia. </string>
-    <string name="food4_benefits">Food Benefits</string>
+    <string name="food4_description">A small, fuzzy fruit with green  flesh that is high in vitamin C and fiber,   used  in salads  and smoothies and eaten as a  snack. </string>
+    <string name="food4_benefits">Vitamin C\nFiber\nPotassium\nVitamin E\nFolate</string>
 
     <string name="food5">Mango</string>
-    <string name="food5_description">A mango is an edible stone fruit produced by the tropical tree Mangifera indica.</string>
-    <string name="food5_benefits">Food Benefits</string>
+    <string name="food5_description">A sweet, juicy  fruit with a yellow-orange flesh that is high in vitamin C and fiber, smoothies  and eaten as a  snack or in salads.</string>
+    <string name="food5_benefits">Vitamin C\nVitamin A\nFiber\nAntioxidants\nCopper</string>
 
     <string name="food6">Papaya</string>
-    <string name="food6_description">The papaya, papaw, or pawpaw is the plant species Carica papaya, one of the 21 accepted species in the genus Carica of the family Caricaceae. </string>
-    <string name="food6_benefits">Food Benefits</string>
+    <string name="food6_description">The papaya, or pawpaw is the plant species Carica papaya, one of the 21 accepted species in the genus Carica of the family Caricaceae. </string>
+    <string name="food6_benefits"> Vitamin C\nPapain (an enzyme)\nFiber\nPotassium\nFolate</string>
 
     <string name="food7">Pinapple</string>
-    <string name="food7_description">The pineapple is a tropical plant with an edible fruit; it is the most economically significant plant in the family Bromeliaceae.</string>
-    <string name="food7_benefits">Food Benefits</string>
+    <string name="food7_description">The pineapple  is a tropical plant with an  edible fruit ; it is the most  economically significant plant in the family Bromeliaceae .</string>
+    <string name="food7_benefits">Bromelain (an enzyme)\nVitamin C\nManganese\nFiber\nCopper.</string>
+
+
+    <string name="see_all_benefits">See All Benefits</string>
+
 
 </resources>

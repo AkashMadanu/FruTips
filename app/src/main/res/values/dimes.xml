@@ -4,6 +4,7 @@
 <dimen name="padding_small">8dp</dimen>
 <dimen name="padding_medium">16dp</dimen>
 <dimen name="image_height">250dp</dimen>
-<dimen name="card_height">50dp</dimen>
+<dimen name="card_height">580dp</dimen>
+<dimen name="card_expanded_height">710dp</dimen>
 
 </resources>

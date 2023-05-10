@@ -3,7 +3,7 @@ package com.example.foodtips.DataSource
 import com.example.foodtips.*
 import com.example.foodtips.model.*
 
-class Foods
+class FoodsData
 {
     fun loadFoodCards() : List<FoodCards>
     {
