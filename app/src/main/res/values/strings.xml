@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Food Tips</string>
+
+    <string name="food1">Banana</string>
+    <string name="food1_description">A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</string>
+    <string name="food1_benefits">Food Benefits</string>
+
+    <string name="food2">Dragon</string>
+    <string name="food2_description">Dragon fruit is a tropical fruit that\'s low in calories and high in fiber and antioxidants. </string>
+    <string name="food2_benefits">Food Benefits</string>
+
+    <string name="food3">Grapes</string>
+    <string name="food3_description">Grapes are a type of fruit that grow in clusters of 15 to 300, and can be crimson, black, dark blue, yellow, green, orange, and pink</string>
+    <string name="food3_benefits">Food Benefits</string>
+
+    <string name="food4">Kiwi</string>
+    <string name="food4_description">Kiwifruit or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia. </string>
+    <string name="food4_benefits">Food Benefits</string>
+
+    <string name="food5">Mango</string>
+    <string name="food5_description">A mango is an edible stone fruit produced by the tropical tree Mangifera indica.</string>
+    <string name="food5_benefits">Food Benefits</string>
+
+    <string name="food6">Papaya</string>
+    <string name="food6_description">The papaya, papaw, or pawpaw is the plant species Carica papaya, one of the 21 accepted species in the genus Carica of the family Caricaceae. </string>
+    <string name="food6_benefits">Food Benefits</string>
+
+    <string name="food7">Pinapple</string>
+    <string name="food7_description">The pineapple is a tropical plant with an edible fruit; it is the most economically significant plant in the family Bromeliaceae.</string>
+    <string name="food7_benefits">Food Benefits</string>
+
+</resources>
