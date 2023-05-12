@@ -4,7 +4,9 @@
 <dimen name="padding_small">8dp</dimen>
 <dimen name="padding_medium">16dp</dimen>
 <dimen name="image_height">250dp</dimen>
-<dimen name="card_height">580dp</dimen>
-<dimen name="card_expanded_height">710dp</dimen>
+<dimen name="card_height_android_greater_than_12">500dp</dimen>
+<dimen name="card_expanded_height_android_greater_than_12">600dp</dimen>
+<dimen name="card_height_android_less_than_13">570dp</dimen>
+<dimen name="card_expanded_height_android_less_than_13">710dp</dimen>
 
 </resources>

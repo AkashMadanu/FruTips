@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Food Tips</string>
+    <string name="app_name">FruTips</string>
 
     <string name="food1">Banana</string>
     <string name="food1_description">A sweet, elongated fruit with yellow skin and white flesh that is high in potassium and commonly used in smoothies and baked goods.</string>
@@ -25,7 +25,7 @@
     <string name="food6_description">The papaya, or pawpaw is the plant species Carica papaya, one of the 21 accepted species in the genus Carica of the family Caricaceae. </string>
     <string name="food6_benefits"> Vitamin C\nPapain (an enzyme)\nFiber\nPotassium\nFolate</string>
 
-    <string name="food7">Pinapple</string>
+    <string name="food7">Pineapple</string>
     <string name="food7_description">The pineapple  is a tropical plant with an  edible fruit ; it is the most  economically significant plant in the family Bromeliaceae .</string>
     <string name="food7_benefits">Bromelain (an enzyme)\nVitamin C\nManganese\nFiber\nCopper.</string>
 
